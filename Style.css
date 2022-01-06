@@ -1,0 +1,142 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+    
+}
+.border{
+    border-left: 2px solid #2aff0094;
+}
+span{
+    color: rgb(127, 255, 155);
+}
+.btn{
+    background-image: linear-gradient(rgb(111 0 255 / 60%),rgb(255 129 0 / 61%));
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 2px;
+    color: aliceblue;
+    font-weight: 600;
+    margin: 2%;
+}
+.container-flex1{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 70%;
+    margin: 70px 60px;
+}
+p{
+    padding: 10px;
+    
+    
+}
+#text{
+    text-align: center;
+}
+.container-flex2{
+    display: flex;
+
+}
+.img-size{
+    padding: 10px;
+   margin-left: 2%;
+    
+}
+ .img-size img{
+width:25%;
+ }
+#background1{
+    background-color: #faebd761;
+    width: 30%;
+    margin-left: 5%;
+    border-radius: 15px;
+}
+#background2{
+    background-color: #7fffd42e;
+    width: 30%;
+    border-radius: 15px;
+    
+}
+#background3{
+    background-color: #00ffff1f;
+    width: 30%;
+    margin-right: 5%;
+    border-radius: 15px
+}
+.container-flex3{
+    display: flex;
+    margin-top: 5%;
+}
+.half-width3{
+    width: 40%;
+    
+}
+#border-photo{
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 50%;
+
+    
+}
+#border-photo img{
+    width: 90%;
+    padding: 10%;
+    margin-left: 10%;
+}
+.half-width4{
+    margin-left: 70px;
+    padding-top: 5%;
+    
+}
+.half-width4 h2{
+    font-weight: 600;
+
+}
+ 
+#same-change{
+    padding-right: 10%;
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 70% 130%;
+    background-size: 40%;
+}
+#same-change img{
+width: 100%;
+}
+.half-width5 {
+    width: 182%;
+    margin-left: 5%;
+    padding-right: 3%;
+    border-left: 5px solid;
+    border-image:linear-gradient(rgba(0, 81, 255, 0.836),rgba(0, 128, 0, 0.877));
+    border-image-slice:1 ;
+    border-radius: 3px;
+}
+.half-width5 img{
+    width: 100%;
+}
+.half-width6{
+    width: 80%;
+    padding-left: 20px;
+    border-left: 5px;
+    padding-right: 10px;
+ 
+}
+.fotter-bg-color{
+    background-color: #000000bd;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+}
